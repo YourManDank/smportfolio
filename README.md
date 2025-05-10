@@ -1,12 +1,12 @@
 # Statistics and Probability
-## Descriptive statistics
-## Probability distributions
-## Hypothesis testing
-## Confidence intervals
-## Correlation vs. causation
+## Descriptive Statistics
+## Probability Distributions
+## Hypothesis Testing
+## Confidence Intervals
+## Correlation vs. Causation
 
 # Mathematics
-## Linear algebra
+## Linear Algebra
 ## Calculus
 ## Discrete Mathematics
 
